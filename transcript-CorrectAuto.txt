@@ -1,0 +1,81 @@
+﻿[bouncy piano intro]
+
+YouTube's Automatic Captioning feature, or autocaption,
+is a tool for producing a rough draft of your video's captions.
+The accuracy of the captions depends
+on your video's sound quality - the clearer it is,
+the more accurate the captions.
+However, because autocaptions are a rough draft,
+they will need to be edited for spelling,
+punctuation, capitalization, as well as for notations
+indicating important sounds and changes in speaker.
+
+There are also a few formatting errors
+that we'll keep an eye out for, such as:
+floating words, too many lines of text on-screen,
+and too many words in one line.
+
+To avoid looking for too much at once,
+we'll make several passes through the captions,
+checking for one or two things at a time.
+
+Let's take a closer look at how this works!
+
+From my channel's Video Manager,
+I'll locate one of my auto-captioned videos,
+click the drop-down arrow next to Edit,
+and select Subtitles and CC.
+
+A button for the autocaption track appears.
+I'll click the button to open the caption editor.
+The caption editor has three areas:
+the video preview,
+the video's audio track,
+and the editing tool.
+
+Use the preview to play the video and see
+how the captions appear on-screen.
+The video's audio track contains the video's sound information.
+Don't worry, YouTube hasn't
+removed the sound from the video,
+this is just a display so that you can see
+when sound begins and ends.
+
+This is helpful when it's time to sync the caption lines.
+Clicking the Edit button, in the Edit Tool,
+allows you to make changes to the autocaptions.
+You can add a caption line, for example,
+this video begins with music, so I'll add a caption line
+to make that notation.
+
+You can also delete a caption line.
+Here's a floating word, so I'll delete it by
+hovering the mouse over the caption line and
+then clicking the X that appears.
+
+I'll continue to edit the autocaptions,
+by making a couple more passes to check for spelling,
+punctuation, capitalization, floating words, sounds, and changes in speaker.
+
+OK, I'm satisfied with the accuracy of these captions,
+so I'll revisit the video's audio track and
+adjust when they appear so they are synced
+with the audio.
+
+The audio track has
+a scrubber that is useful for aligning the
+sound with the captions. I can use the blue line
+as an indicator of when the caption should appear in the video.
+
+See what happens when I pull the scrubber?
+The captions that cross the blue line appear on-screen.
+I'd like for this caption to last a little longer on-screen,
+so I'll drag the right edge of its box to the right.
+There we go.
+
+I'll continue aligning the captions to the sound.
+
+OK! The captions are ready to be published.
+Allowing YouTube to autocaption your videos
+allows you to work with a draft of your captions,
+making the captioning process less time consuming and more manageable.

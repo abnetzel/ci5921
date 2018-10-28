@@ -1,0 +1,263 @@
+/*
+  File date: May 22, 2014
+*/
+
+
+/*#content{width:73%;margin:0 1% 0 3%;float:left;}
+#sidebar{width:20%;margin:1.75em 1% 0 0;}
+
+.sb-left #content{float:right;}
+.sb-left div#navtocsidebar ul ul {
+margin: -1px 0 0 -2px;
+left: 9em;
+right: auto;
+}
+
+.doodad #photo {
+	position: absolute;
+	left: 10px;
+	top: 140px;
+	z-index: -1;
+	width: 181px;
+	height: 136px;
+}
+
+.doodad #content{
+	width:65%;margin:0 1% 0 12%;
+	padding-top: 60px;
+}
+
+@media only screen and (max-width: 840px) {
+	#content{width:70%;}
+	#sidebar{width:23%;}
+	.doodad #content{
+		width:60%;margin:0 1% 0 14%;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	#content{width:67%;}
+	.doodad #content{
+		width:57%;
+	}
+	#sidebar{width:26%;}
+}*/
+
+@media only screen and (max-width: 640px) {
+
+	#banner{background-image: none;border-bottom: none;}
+
+	#banner h1{padding:0 20px;margin:0 0 15px;}
+	#banner h2{padding:0 20px;margin:0 0 15px;}
+
+	#contentWrap{
+		border-left:none;
+		border-right:none;
+		background-image:none;
+		background: inherit;
+	}
+
+	.hide-small{
+		display: none;
+	}
+	#banner{
+		position: relative;
+		padding:10px 0 0;
+		width:100%;
+		margin:0 auto 10px;
+		height:auto;
+		overflow: hidden;
+	}
+	#banner p{padding:0 20px;margin:0 0 15px;}
+	#banner p.line2{padding:0 20px;margin:0 0 15px;}
+
+	#banner img {
+		float: none;
+		margin: 0 auto;
+		padding: 0 0 10px;
+		max-width: 90%;
+		display: block;
+	}
+
+	#sidebardodad,
+	#sidebar{
+		position: relative;
+		top:auto;
+		right:auto;
+		left:auto;
+		width:96%;
+		margin:0 auto;
+		padding-top:20px;
+		padding-bottom:20px;
+		font-size: 16px;
+		overflow: hidden;
+		float:none;
+	}
+	#photo{
+		display:none;
+	}
+
+	.sb-left #content,
+	.doodad #content,
+	#content2,
+	#contentdodad,
+	#content{
+		position: relative;
+		top:auto;
+		right:auto;
+		left:auto;
+		margin:0 auto;
+		padding:0;
+		width:94%;
+		overflow: hidden;
+		background-image: none;
+		background: #fff;
+		padding:0 3%;
+		float:none;
+	}
+	#contentdodad,
+	#content img{
+		display: block;
+		margin:15px auto;
+		float:none;
+		max-width: 96%;
+	}
+
+	/* MAIN NAV BAR */
+	div#nav{
+		position: relative;
+		height:auto;
+		font-size: 16px;
+		top:auto;
+		margin:0 auto;
+		overflow: hidden;
+		padding:0 0 10px;
+		width:100%;
+	}
+	#printall{padding:10px 0;width:35%;text-align: right;}
+
+	div#nav > ul{
+		width:64%;
+		margin:0;
+		float:left;
+		margin-top:15px;
+	}
+	div#nav > ul li{
+		margin:0 0 4px;
+		display: inline-block;
+	}
+
+	div#nav > ul li.arrownext a{margin-left:0;padding-left:0;}
+
+	div#nav > #navtoc{
+		width: 65%;
+	}
+	div#nav > #navtoc > ul {
+		width: 100%;
+		margin: 0 auto;
+		float: left;
+		border:none;
+	}
+
+	div#navindent {
+		margin: 0;
+		width: 65%;
+		float: left;
+		overflow: hidden;
+		padding-bottom: 15px;
+	}
+	div#navindent > ul {
+		width: 100%;
+		margin: 0 auto;
+		float: left;
+		margin-top: 15px;
+	}
+
+	div#navtoc{
+		width:96%;
+		float:left;
+		margin:0 auto;
+		border-left:none;
+	}
+	div#navtoc li{
+		width:100%;
+	}
+	div#navtoc li a{
+		line-height: 1.2;
+		padding-top:10px;
+		padding-bottom: 9px;
+	}
+	div#navtoc ul ul{
+		position: relative;
+		width:100%;
+	}
+	div#navtoc ul.level2{
+		top:auto;
+		left:auto;
+	}
+	div#navtoc ul.level2 li.submenu:hover ul.level3 li a{
+		width:auto;
+	}
+	div#navtoc ul.level3{
+		top:0;
+		left:0;
+		width:100%;
+	}
+	div#navtoc li.submenu:hover {
+		background: url(dropmenu_custom.png) 95% 15px no-repeat;
+	}
+
+	div#navtoc li.submenu li.submenu{
+		background: url(dropmenu_custom.png) 95% 15px no-repeat;
+	}
+
+	div#nav ul li.arrownext a {
+		font-weight: bold;
+		margin-left: 5px;
+		padding-left: .25em;
+		padding-right: 1.5em;
+	}
+	 
+
+	/* SIDEBAR */
+	div#navtocsidebar{
+		float:right;
+		width: 100%;
+		margin:0;
+		text-align:right;
+	}
+	div#navtocsidebar ul{
+		width: 100%;
+	}
+	div#navtocsidebar ul ul{
+		position: relative;
+		right:0;
+		left:0;
+	}
+	div#navtocsidebar li{
+		padding-right:0;
+		padding-left:0;
+		border-right: none;
+		border-left: none;
+	}
+	div#navtocsidebar li a{
+		padding-right:10px;
+		padding-top: 10px;
+		padding-bottom: 9px;
+		width:auto;
+	}
+	#sidebardodad div.feature,
+	#sidebar div.feature{
+		clear:both;
+	}
+	#sidebardodad div.feature ul li a,
+	#sidebar div.feature ul li a{
+		width:auto;
+	}
+	div#navtocsidebar li.submenu,
+	div#navtocsidebar li.submenu:hover { 
+		background: url(dropmenu_custom.png) 5% 15px no-repeat;
+	}
+
+
+} /* END MEDIA 640 */

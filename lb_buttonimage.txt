@@ -1,0 +1,47 @@
+! SoftChalk LessonBuilder Image Data File (C)2008
+! ================= DO NOT EDIT =================
+
+ButtonImage:
+fileName=quizgroup_custom
+width=145
+height=50
+margin=2
+diameter=0
+bgColor=ffffff
+fgColor=FFFFFF
+textColor=8a758a
+imageColor=8a758a
+fontName=Arial
+fontStyle=bold
+fontSize=16
+standardArrow=true
+actTitle=false
+closeBox=false
+direction=0
+mediaIcon=false
+mediaType=0
+text=Quiz Group
+textCatagory=21
+
+ButtonImage:
+fileName=onthispage_custom
+width=145
+height=50
+margin=2
+diameter=0
+bgColor=785f78
+fgColor=FFFFFF
+textColor=ffffff
+imageColor=8a758a
+fontName=Arial
+fontStyle=bold
+fontSize=16
+standardArrow=true
+actTitle=false
+closeBox=false
+direction=0
+mediaIcon=false
+mediaType=0
+text=On this Page
+textCatagory=18
+

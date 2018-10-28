@@ -1,0 +1,35 @@
+﻿TRANSCRIPT OF CREATING ACCESSIBLE YOUTUBE VIDEOS: UPLOADING A VIDEO
+
+[bouncy piano intro]
+When it's time to upload a video to YouTube,
+you can often use your video editing software,
+such as Camtasia, to send the video directly to your YouTube account.
+
+However, if your account has multiple channels,
+you'll need to export your video so that it's a standalone file
+saved locally to your computer or storage device.
+YouTube's Upload button will allow you to upload the video file
+to the desired channel.
+
+I've already exported my video and I'd like to add it
+to my discipline's YouTube channel.
+
+From my department's account, I'll click the Account Picture
+and select the channel I need.
+Then I'll click Upload,
+click the Public drop-down arrow,
+and select Private,
+so no one can view the video
+until I've prepared its captions.
+
+Click Select files to upload,
+and then I'll locate my video.
+As the video uploads and processes,
+I'll give it a descriptive, but short, title;
+a short description;
+and I'll add it to a playlist.
+
+The information on this screen looks pretty good,
+so I'll click Done to confirm all of my changes.
+Uploading videos to YouTube is a quick process
+that allows you to build your video library in just a few steps.
